@@ -24,3 +24,8 @@ Here, you'll find:
 - Detected 93 Live Threats and implemented sensors across the University
 - Proposed a GRC (Governance, Risk, and Compliance) for the Cybersecurity Posture of The University of Santo Tomas.
 
+----------------------------------------------------------------------------------------------------------------------------------
+
+**Post-Graduate Activities**
+<br>
+
