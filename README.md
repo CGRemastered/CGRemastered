@@ -1,16 +1,26 @@
-## Hi there 👋
+**Greetings!**
 
-<!--
-**CGRemastered/CGRemastered** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm **Craig Garcia**, a passionate tech enthusiast and aspiring cybersecurity analyst from the Philippines 🇵🇭.  
+I recently began my professional journey in cybersecurity after completing my studies in June 2025, graduated from the University of Santo Tomas with latin honors (cum laude)
+and this repository serves as my **digital portfolio**,documenting my growth, learning, and hands-on experiences in the world of **information security**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here, you'll find:
+- 🧠 My cybersecurity projects, labs, and write-ups  
+- 🔐 Notes and learnings from certifications and courses  
+- 🧰 Tools, scripts, and resources I've developed or explored
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+**The University Days** 
+<br>
+<br>
+*Project: SBStocks: A Small Business Stock System For Got Funko Collections*
+- Contributed as the Head Quality Assurance Officer, test cases were executed through manual testing.
+ https://docs.google.com/spreadsheets/d/1EJ4QGq8VwOVMiU6Yvffk9EN-rB_FSxA6jYuHZa7NH8Y/edit?usp=sharing
+   
+*Project: Analysis and Evaluation of CrowdStrike and Vectra AI Integration and Deployment in the University of Santo Tomas Network*
+- Due to the NDA contract, I cannot disclose any sensitive information about the Project.
+- Detected 93 Live Threats and implemented sensors across the University
+- Proposed a GRC (Governance, Risk, and Compliance) for the Cybersecurity Posture of The University of Santo Tomas.
+
