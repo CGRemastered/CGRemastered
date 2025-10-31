@@ -35,7 +35,6 @@ Here, you'll find:
 ----------------------------------------------------------------------------------------------------------------------------------
 <h1>Internship on Dark League Studios</h1>
 <br>
-<br>
 Project Manager Intern (Jan 2025 - March 2025) (Completion of 250 hours)
 <br>
 Full-Stack Developer and Framework Specialist Intern (March 2025 - June 2025) (Completion of 250 hours)
