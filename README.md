@@ -19,15 +19,15 @@ Here, you'll find:
 <h1>The University Days</h1>
 <br>
 <br>
-<h2>All relevant work/exercises to IT:</h2> https://drive.google.com/drive/folders/1k_EHD6nTTtKfwSAhLMaJRXkBG7a6Pudm?usp=sharing
+<b>All relevant work/exercises to IT:</b> https://drive.google.com/drive/folders/1k_EHD6nTTtKfwSAhLMaJRXkBG7a6Pudm?usp=sharing
 <br>
 <br>
-Project: SBStocks: A Small Business Stock System For Got Funko Collections
+<b>Project:</b> SBStocks: A Small Business Stock System For Got Funko Collections
 - Contributed as the Head Quality Assurance Officer, test cases were executed through manual testing.
  <br>
  https://docs.google.com/spreadsheets/d/1EJ4QGq8VwOVMiU6Yvffk9EN-rB_FSxA6jYuHZa7NH8Y/edit?usp=sharing
    
-*Project: Analysis and Evaluation of CrowdStrike and Vectra AI Integration and Deployment in the University of Santo Tomas Network*
+<b>Project:</b> Analysis and Evaluation of CrowdStrike and Vectra AI Integration and Deployment in the University of Santo Tomas Network
 - Due to the NDA contract, I cannot disclose any sensitive information about the Project.
 - Detected 93 Live Threats and implemented sensors across the University
 - Proposed a GRC (Governance, Risk, and Compliance) for the Cybersecurity Posture of The University of Santo Tomas.
