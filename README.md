@@ -5,7 +5,7 @@ Greetings!
 
 I'm **Craig Garcia**, a passionate tech enthusiast and aspiring cybersecurity analyst from the Philippines 🇵🇭.  
 I recently began my professional journey in cybersecurity after completing my studies in June 2025, graduated from the University of Santo Tomas with latin honors (cum laude)
-and this repository serves as my **digital portfolio**, documenting my growth, learning, and hands-on experiences in the world of **information security**.
+and this repository serves as my **digital portfolio**, documenting my growth, learning, and hands-on experiences in the world of **Information Technology**.
 
 Here, you'll find:
 - 🧠 My cybersecurity projects, labs, and write-ups  
