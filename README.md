@@ -19,6 +19,8 @@ Here, you'll find:
 <h1>The University Days</h1>
 <br>
 <br>
+All relevant work/exercises to IT: https://drive.google.com/drive/folders/1k_EHD6nTTtKfwSAhLMaJRXkBG7a6Pudm?usp=sharing
+ 
 Project: SBStocks: A Small Business Stock System For Got Funko Collections
 - Contributed as the Head Quality Assurance Officer, test cases were executed through manual testing.
  <br>
