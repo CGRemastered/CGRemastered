@@ -26,7 +26,7 @@ Here, you'll find:
 - Contributed as the Head Quality Assurance Officer, test cases were executed through manual testing.
  <br>
  https://docs.google.com/spreadsheets/d/1EJ4QGq8VwOVMiU6Yvffk9EN-rB_FSxA6jYuHZa7NH8Y/edit?usp=sharing
-   
+ <br>  
 <b>Project:</b> Analysis and Evaluation of CrowdStrike and Vectra AI Integration and Deployment in the University of Santo Tomas Network
 - Due to the NDA contract, I cannot disclose any sensitive information about the Project.
 - Detected 93 Live Threats and implemented sensors across the University
